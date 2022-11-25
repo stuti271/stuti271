@@ -8,5 +8,6 @@ stuti271/stuti271 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stuti271&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuti271&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
