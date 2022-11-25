@@ -7,5 +7,5 @@
 stuti271/stuti271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="left" width="50" height="70"  src="http://www.fil![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stuti271&theme=radical)">
-<img align="left" width="40" height="70" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuti271&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+<img align="left" width="100" height="100"  src="http://www.fil![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stuti271&theme=radical)">
+<img align="left" width="100" height="100" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuti271&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
