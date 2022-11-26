@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stuti271&count_private=true&show_icons=true&theme=merko" />
   
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vartika511&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stuti271&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
   
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stuti271&theme=merko"/>
 </a>
